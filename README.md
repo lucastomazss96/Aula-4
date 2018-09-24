@@ -1,4 +1,4 @@
-# Econometria Avançada - Aula 4
+# Econometria Avançada - Aula 4 - Raíz Unitária
 * Arquivos e códigos feitos pelo professor;
 * Resultados dos códigos;
 * Slides da aula;
